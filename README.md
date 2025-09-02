@@ -1,11 +1,11 @@
-<h2 align="left">tulioze</h2>
+<h2 align="left">Túlio José</h2>
 <h4 align="left">Full Stack Developer | Next.js • React • Node.js • APIs</h4>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trmxv9&theme=codeSTACKr&show_icons=false&hide_border=true&hide_title=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trmxv9&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tulioze&theme=codeSTACKr&show_icons=false&hide_border=true&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tulioze&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8" height="150" />
 </div>
 
 ---
